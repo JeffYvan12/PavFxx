@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446074311480",
+    "project_id": "pavflixapp",
+    "storage_bucket": "pavflixapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446074311480:android:28e6c0be4e3b89774627cd",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Z6HDWK-ebCfwN76vZDVlPXgUNpYGApA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
